@@ -7,7 +7,7 @@ Enter your text into "Enter Content"
 
 Enter your discord Authorization into "Enter Authorization"
 (To find this open discord in you web brouser go to the chat you would like to chat to and type something. 
-then hit "ctrl shift I" on your kebord goto the network tab and find "Authorization:")
+then hit "ctrl shift I" on your kebord goto the network tab and click messages then find "Authorization:")
 ![Authorization pic](https://cdn.discordapp.com/attachments/1038642175841419314/1199445513976696914/Screenshot_2024-01-23_140758.png?ex=65c291af&is=65b01caf&hm=3470d3e6fb393d1ede62a52abed18778512a531be240ecda9f727ac2b2f7a8ef&)
 
 Enter the Discord chat URL into "Enter URL"
